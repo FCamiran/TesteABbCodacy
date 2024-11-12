@@ -58,4 +58,20 @@ int main(){
         printf("\nA Arvore NAO � uma Arvore binaria de busca1\n");
     }
 
+
+    int azul;
+    float preto =3.2;
+    int branco = azul + preto;
+
+    printf("ArvoreBinaria\n");
+    printf("ArvoreBinaria\n");
+
+    if(azul>3) branco++;
+
+    if(preto == 3)
+
+    incluirInfo(pArvoreInt, alocaInfoInt(3.2), comparaInt);
+    desenhaArvore(pArvoreInt);
+
+
 }
